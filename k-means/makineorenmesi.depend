@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1680212903 source:e:\shun_\makineorenmesi\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<cmath>
+	<cstdlib>
+	<ctime>
+
